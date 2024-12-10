@@ -8,6 +8,7 @@ The Perceptron class is implemented using NumPy and includes methods for activat
 Perceptrons are utilized to implement AND, OR, and NOT gates. The gates are trained with specific input-output pairs to learn their respective behaviors.
 
 # Training
+The perceptrons are trained with multiple iterations to learn the correct weights for each gate. Training examples are provided for AND, OR, and NOT gates.
 
 # Testing
 The test_perceptron function is used to test the behavior of each gate for different input combinations.
